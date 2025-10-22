@@ -48,7 +48,7 @@ Most publications fit into a single line.
 
 ## How to Use
 
-1. Download the 4authors-year-doi-url.csl file from this repository.
+1. Download the [4authors-year-doi-url.csl file](https://github.com/pablobernabeu/4authors-year-doi-url/blob/main/4authors-year-doi-url) from this repository.
 
 2. Add the file to your reference manager:
 
