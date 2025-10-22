@@ -1,0 +1,75 @@
+# 3authors-year-DOI_URL
+
+#### A minimal, numeric CSL style for documents with extreme space constraints (e.g., posters, slides, or abstracts).
+
+This style is designed to be as compact as possible while retaining the three most critical pieces of information for a reference: **who** (authors), **when** (year) and **where** to find it (DOI/URL).
+
+## Features
+
+- In-Text Citations: Simple, superscripted numbers (e.g., ¹, ², ³).
+
+- Bibliography:
+
+  - Numeric: A numbered list, ordered by appearance in the text.
+
+  - No Titles: Article and book titles are completely omitted to save space.
+
+- Authors:
+
+  - 1-3 Authors: All authors are listed.
+
+  - 4+ Authors: Lists the first 3 authors, followed by an ellipsis (…) and the last author.
+
+- Year: The publication year is included in parentheses.
+
+- Link: The reference ends with a clickable DOI or URL.
+
+## Examples
+
+### In-Text Citation
+
+Recent studies on digital wellness¹ have been challenged by new findings.² This approach, however, is not universally accepted,³⁻⁵ and alternative models exist.⁶
+
+### Bibliography
+
+```
+1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
+2. Hattan, C., & Kendeou, P. (2024). https://doi.org/10.1080/00461520.2024.2418048
+3. Mathers, S. J., Kolancali, P., Jelley, F., … Murphy, V. A. (2025). https://doi.org/10.1016/j.edurev.2025.100665
+4. Li, S., Hiver, P., & Papi, M. (Eds). (2022). https://doi.org/10.4324/9781003270546
+5. Nielsen, J. L., Christensen, R. V., & Poulsen, M. (2025). https://doi.org/10.1002/rrq.70003
+6. Kaup, B., Günther, F., & Dudschig, C. (2025). https://doi.org/10.1016/bs.plm.2025.08.001
+7. Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). https://doi.org/10.1162/coli_a_00398
+8. Bernabeu, P. (2022). https://doi.org/10.17635/lancaster/thesis/1795
+9. Blasi, D. E., Henrich, J., Adamou, E., … Majid, A. (2022). https://doi.org/10.1016/j.tics.2022.09.015
+```
+
+## How to Use
+
+1. Download the 3authors-year-DOI_URL.csl file from this repository.
+
+2. Add the file to your reference manager:
+
+  - Zotero:
+
+    1. Go to Edit > Preferences.
+
+    2. Go to the Cite tab and click the Styles sub-tab.
+
+    3. Click the + button and select the .csl file you downloaded.
+
+  - Mendeley:
+
+    1. Go to View > Citation Style > More Styles....
+
+    2. Go to the Custom Styles tab.
+
+    3. Drag and drop the .csl file onto the page.
+
+  - Other Platforms: Most reference managers (e.g., EndNote, Papers) have an option to add a custom CSL style. Consult their documentation for specific instructions.
+
+3. Select "3authors-year-DOI_URL" as the citation style in your reference manager and word processor.
+
+## License
+
+This CSL file is made available under the [Creative Commons 4.0 Attribution 4.0 International licence](/licence.md). Feel free to use, modify and distribute this CSL style.
