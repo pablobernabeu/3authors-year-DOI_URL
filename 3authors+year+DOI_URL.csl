@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <info>
-    <title>3authors-year-DOI_URL (numeric, superscript)</title>
-    <title-short>APA (numeric)</title-short>
-    <id>http://www.zotero.org/styles/3authors-year-DOI_URL</id>
+    <title>3authors-year-doi-url</title>
+    <title-short>3authors-year-doi-url</title-short>
+    <id>http://www.zotero.org/styles/3authors-year-doi-url</id>
     <link href="http://www.zotero.org/styles/apa-numeric-superscript" rel="self"/>
     <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
@@ -1965,5 +1965,4 @@
       </group>
     </layout>
   </bibliography>
-
 </style>
