@@ -6,7 +6,7 @@ This style is designed to be as compact as possible while retaining the three mo
 
 ## Features
 
-- In-Text Citations: Simple, superscripted numbers (e.g., ¹, ², ³).
+- In-Text Citations: Simple, superscripted numbers (e.g., <sup>1</sup>, <sup>2</sup>, <sup>3</sup>).
 
 - Bibliography:
 
