@@ -1,4 +1,4 @@
-# 3authors-year-doi-url
+# 4authors-year-doi-url
 
 #### A minimal, numeric CSL style for documents with extreme space constraints (e.g., posters, slides, or abstracts).
 
@@ -46,7 +46,7 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
 ## How to Use
 
-1. Download the 3authors-year-doi-url.csl file from this repository.
+1. Download the 4authors-year-doi-url.csl file from this repository.
 
 2. Add the file to your reference manager:
 
@@ -68,7 +68,7 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
   - Other Platforms: Most reference managers (e.g., EndNote, Papers) have an option to add a custom CSL style. Consult their documentation for specific instructions.
 
-3. Select "3authors-year-doi-url" as the citation style in your reference manager and word processor.
+3. Select "4authors-year-doi-url" as the citation style in your reference manager and word processor.
 
 ## License
 
