@@ -70,6 +70,6 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
 3. Select "4authors-year-doi-url" as the citation style in your reference manager and word processor.
 
-## License
+## Licence
 
 This CSL file is made available under the [Creative Commons 4.0 Attribution 4.0 International licence](/licence.md). Feel free to use, modify and distribute this CSL style.
