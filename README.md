@@ -2,7 +2,7 @@
 
 ### A minimal, numeric CSL style for documents with extreme space constraints (e.g., posters, slides, or abstracts).
 
-This style is designed to be as compact as possible while retaining the three most critical pieces of information for a reference: **who** (authors), **when** (year), and **where** (DOI/URL). 
+This style is designed to be as compact as possible while retaining the three most critical pieces of information for a reference: **who** (authors), **when** (year) and **where** (DOI/URL). 
 
 ## Features
 
