@@ -22,7 +22,7 @@ This style is designed to be as compact as possible while retaining the three mo
 
 - Year: The publication year is included in parentheses.
 
-- DOI URL: The reference ends with a DOI URL leading to the publication.
+- DOI URL: The reference ends with a DOI URL leading to the content.
 
 ## Examples
 
@@ -32,7 +32,7 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
 ### Bibliography
 
-Most publications fit into a single line. 
+Most references fit into a single line. 
 
 ```
 1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
