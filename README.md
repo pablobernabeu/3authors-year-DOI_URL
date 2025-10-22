@@ -28,7 +28,7 @@ This style is designed to be as compact as possible while retaining the three mo
 
 ### In-Text Citation
 
-Family context, including the parent’s age, parental co-engagement<sup>3</sup>, the child’s age, and language locality (local versus foreign)<sup>4</sup>, informs our understanding of the child’s developing cultural and conceptual knowledge. We also recognise the many-to-many relationship between forms of knowledge and skills.<sup>2</sup> To build a predictive model, we will analyse interactions between reader-level factors and a comprehensive set of computationally-derived text variables, including word concreteness, frequency, coherence, lexical and syntactic complexity, and sentiment.<sup>5–8</sup>
+We also recognise the many-to-many relationship between forms of knowledge and skills.<sup>2</sup> To build a predictive model, we will analyse interactions between reader-level factors and a comprehensive set of computationally-derived text variables, including word concreteness, frequency, coherence, lexical and syntactic complexity, and sentiment.<sup>5–8</sup>
 
 ### Bibliography
 
