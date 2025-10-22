@@ -22,7 +22,7 @@ This style is designed to be as compact as possible while retaining the three mo
 
 - Year: The publication year is included in parentheses.
 
-- Link: The reference ends with a clickable DOI or URL.
+- DOI URL: The reference ends with a DOI URL leading to the publication.
 
 ## Examples
 
