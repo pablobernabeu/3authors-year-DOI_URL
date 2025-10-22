@@ -2,7 +2,7 @@
 
 #### A minimal, numeric CSL style for documents with extreme space constraints (e.g., posters, slides, or abstracts).
 
-This style is designed to be as compact as possible while retaining the three most critical pieces of information for a reference: **who** (authors), **when** (year), and **where** to find it (DOI/URL).
+This style is designed to be as compact as possible while retaining the three most critical pieces of information for a reference: **who** (authors), **when** (year), and **where** to find it (DOI/URL). 
 
 ## Features
 
@@ -31,6 +31,8 @@ This style is designed to be as compact as possible while retaining the three mo
 We also recognise the many-to-many relationship between forms of knowledge and skills.<sup>2</sup> To build a predictive model, we will analyse interactions between reader-level factors and a comprehensive set of computationally-derived text variables.<sup>5–8</sup>
 
 ### Bibliography
+
+Most publications fit into a single line. 
 
 ```
 1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
