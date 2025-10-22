@@ -32,8 +32,6 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
 ### Bibliography
 
-Most references fit into a single line. 
-
 ```
 1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
 2. Hattan, C., & Kendeou, P. (2024). https://doi.org/10.1080/00461520.2024.2418048
