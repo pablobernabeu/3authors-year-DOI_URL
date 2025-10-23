@@ -46,7 +46,7 @@ We also recognise the many-to-many relationship between forms of knowledge and s
 
 ## How to Use
 
-1. Download the [4authors-year-doi-url.csl file](https://github.com/pablobernabeu/4authors-year-doi-url/blob/main/4authors-year-doi-url) from this repository.
+1. Download the [4authors-year-doi-url.csl file](https://github.com/pablobernabeu/4authors-year-doi-url/blob/main/4authors-year-doi-url.csl) from this repository.
 
 2. Add the file to your reference manager:
 
