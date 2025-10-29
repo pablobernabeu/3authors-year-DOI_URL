@@ -32,17 +32,15 @@ This style is designed to be as compact as possible while retaining the three mo
 
 ### Bibliography
 
-```
-1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
-2. Hattan, C., & Kendeou, P. (2024). https://doi.org/10.1080/00461520.2024.2418048
-3. Mathers, S. J., Kolancali, P., Jelley, F., … Murphy, V. A. (2025). https://doi.org/10.1016/j.edurev.2025.100665
-4. Li, S., Hiver, P., & Papi, M. (Eds). (2022). https://doi.org/10.4324/9781003270546
-5. Nielsen, J. L., Christensen, R. V., & Poulsen, M. (2025). https://doi.org/10.1002/rrq.70003
-6. Kaup, B., Günther, F., & Dudschig, C. (2025). https://doi.org/10.1016/bs.plm.2025.08.001
-7. Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). https://doi.org/10.1162/coli_a_00398
-8. Bernabeu, P. (2022). https://doi.org/10.17635/lancaster/thesis/1795
-9. Blasi, D. E., Henrich, J., Adamou, E., … Majid, A. (2022). https://doi.org/10.1016/j.tics.2022.09.015
-```
+> 1. Orben, A., & Przybylski, A. K. (2019). https://doi.org/10.1177/0956797619830329
+> 2. Hattan, C., & Kendeou, P. (2024). https://doi.org/10.1080/00461520.2024.2418048
+> 3. Mathers, S. J., Kolancali, P., Jelley, F., … Murphy, V. A. (2025). https://doi.org/10.1016/j.edurev.2025.100665
+> 4. Li, S., Hiver, P., & Papi, M. (Eds). (2022). https://doi.org/10.4324/9781003270546
+> 5. Nielsen, J. L., Christensen, R. V., & Poulsen, M. (2025). https://doi.org/10.1002/rrq.70003
+> 6. Kaup, B., Günther, F., & Dudschig, C. (2025). https://doi.org/10.1016/bs.plm.2025.08.001
+> 7. Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). https://doi.org/10.1162/coli_a_00398
+> 8. Bernabeu, P. (2022). https://doi.org/10.17635/lancaster/thesis/1795
+> 9. Blasi, D. E., Henrich, J., Adamou, E., … Majid, A. (2022). https://doi.org/10.1016/j.tics.2022.09.015
 
 ## How to Use
 
